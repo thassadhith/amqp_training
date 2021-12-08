@@ -1,5 +1,6 @@
-package fr.lernejo;
+package fr.lernejo.chat;
 
+import fr.lernejo.Sample;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
@@ -16,3 +17,6 @@ class SampleTest {
             .isEqualTo(4);
     }
 }
+
+
+
